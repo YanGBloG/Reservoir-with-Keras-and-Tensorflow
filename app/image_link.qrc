@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="/" >
+    <file>fig/add_neurons.png</file>
+    <file>fig/calculate.png</file>
+    <file>fig/fullScreen.png</file>
+    <file>fig/houseprice.ico</file>
+    <file>fig/icons_play.png</file>
+    <file>fig/iris.ico</file>
+    <file>fig/load_data.png</file>
+    <file>fig/minus.png</file>
+    <file>fig/minus_neurons.png</file>
+    <file>fig/mu.png</file>
+    <file>fig/neuralnetwork.png</file>
+    <file>fig/plus.png</file>
+    <file>fig/poro.ico</file>
+    <file>fig/return.png</file>
+    <file>fig/rho.png</file>
+    <file>fig/sigma.png</file>
+    <file>fig/stop.png</file>
+    <file>fig/titanic.ico</file>
+    <file>fig/touch.png</file>
+    <file>fig/viewlog.png</file>
+  </qresource>
+</RCC>
