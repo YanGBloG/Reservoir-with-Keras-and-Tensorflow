@@ -19,7 +19,7 @@ The Artificial tab was build by using neural network architecture to train the i
 <img src="/test/demo/second.PNG"/>
 </p>
 
-The Results tab show results data were predict by model trained before and reliability of model (high $R^2$, low $RMSE$).
+The Results tab show results data were predict by model trained before and reliability of model (high R2, low RMSE).
 
 <p align="center">
 <img scr="/test/demo/third.PNG"/>
